@@ -1,1 +1,1 @@
-worker:  runbot.bat
+worker:  runbot_mac.command
